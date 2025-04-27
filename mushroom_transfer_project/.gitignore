@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data files
+*.zip
+*.tar.gz
+*.h5
+*.ckpt
+*.weights
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Codespaces hidden folders
+.vscode/
+.codespaces/
+
+# Temporary files
+*.log
+*.tmp
